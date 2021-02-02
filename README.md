@@ -18,8 +18,13 @@
 some screenshots that how we can connect visual studio window form project with SSMS SQL Database.
 
 1
+
 ![Step-1](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%231.png)
+
 2
+
 ![Step-2](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%232.png)
+
 3
+
 ![Step-3](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%233.JPG)
