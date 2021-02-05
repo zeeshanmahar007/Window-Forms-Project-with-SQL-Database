@@ -39,7 +39,7 @@ Search Data (Search Data by using Roll Number)
 
 ![Output-2](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%232.JPG)
 
-Delete Record (delete record by using roll number)
+Delete Record (delete record by using Roll number or just double click on any row then press Delete Record Button)
 
 ![Output-3](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%233.JPG)
 
