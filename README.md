@@ -1,5 +1,6 @@
 # Window Forms Project with SQL Database
 ## Design a given Windows Form (named as Registration Form)
+## Instruction
 
 ➢ It will also contain the <b>DataGrid for Display/View Data, labels, textbox and any other required</b> component from the Toolbox. You can set the Color, Name, Font, and other properties through the Properties of the forms.
 
