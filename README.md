@@ -18,15 +18,15 @@
 
 some screenshots that how we can connect visual studio window form project with SSMS SQL Database.
 
-1
+1-Select Tools opetion in menu bar and click Connect to Database
 
 ![Step-1](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%231.png)
 
-2
+2-write your Server Name and select `Select or enter a database name` in Connect to a database Portion.
 
 ![Step-2](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%232.png)
 
-3
+3-open your Database file
 
 ![Step-3](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/SQL%233.JPG)
 
