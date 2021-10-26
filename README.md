@@ -32,26 +32,26 @@ some screenshots that how we can connect visual studio window form project with 
 
 ## Screenshots of Output
 
-Home page (Menu Selection)
+<b>Home page</b> (Menu Selection)
 
 ![Output-1](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%231.JPG)
 
-Search Data (Search Data by using Roll Number)
+<b>Search Data</b> (Search Data by using Roll Number)
 
 ![Output-2](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%232.JPG)
 
-Delete Record (delete record by using Roll number or just double click on any row then press Delete Record Button)
+<b>Delete Record</b> (delete record by using Roll number or just double click on any row then press Delete Record Button)
 
 ![Output-3](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%233.JPG)
 
-Update Record (Update any field of data)
+<b>Update Record</b> (Update any field of data)
 
 ![Output-4](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%234.JPG)
 
-Registration Form (new registration/save new data)
+<b>Registration Form</b> (new registration/save new data)
 
 ![Output-5](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%235.JPG)
 
-Display All information (All data strored in Database display here)
+<b>Display All information</b> (All data strored in Database display here)
 
 ![Output-6](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%236.JPG)
