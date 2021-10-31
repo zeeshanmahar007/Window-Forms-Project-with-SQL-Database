@@ -32,7 +32,8 @@ Screenshots are attached while performing all the necassary functionailities tha
 
 ## Screenshots of Output
 
-<b>Home page</b> (Menu Selection)
+<b>Home page</b> (Menu Selection)<br /> 
+This hompage provides options to the user that which functionality needs to be performed. This includes "Search record" which will help the user reach to a particular record of a patient and view it. It includes "Delete Record" which will delete all the record of the patient of the particular id from the database. It also includes "Display Record" which will allow the user to display a record of a particular person.Along with this it has "Update record" option which will allow users to modify and alter their already storred data in the data base. 
 
 ![Output-1](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%231.JPG)
 
