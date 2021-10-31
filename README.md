@@ -16,7 +16,7 @@
 
 ## Connecting with SQL Database
 
-some screenshots that how we can connect visual studio window form project with SSMS SQL Database.
+Screenshots are attached while performing all the necassary functionailities that how we can connect visual studio window form project with SSMS SQL Database.
 
 1-Select `Tools` opetion in menu bar and click `Connect to Database`.
 
