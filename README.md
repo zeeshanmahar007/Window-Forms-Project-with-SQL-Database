@@ -48,7 +48,8 @@ some screenshots that how we can connect visual studio window form project with 
 
 ![Output-4](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%234.JPG)
 
-<b>Registration Form</b> (new registration/save new data)
+<b>Registration Form</b> (new registration/save new data) <br /> 
+This form will let the user to save information inluding name, address, cnic, class, semester,roll number and date of birth. Pressing the submit button will save the complete record in sql database. 
 
 ![Output-5](https://raw.githubusercontent.com/zeeshanmahar007/Window-Forms-Project-with-SQL-Database/master/Screenshots/Output%235.JPG)
 
